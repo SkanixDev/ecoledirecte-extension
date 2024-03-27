@@ -1,0 +1,10 @@
+{
+	"manifest_version": 3,
+	"name": "EcoleDirect extension",
+	"version": "0.1",
+	"description": "...",
+	"permissions": ["tabs", "scripting", "storage"],
+	"action": {
+		"default_popup": "index.html"
+	}
+}
